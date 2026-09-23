@@ -1,0 +1,4 @@
+selenium
+beautifulsoup4
+aliyun-python-sdk-core
+aliyun-python-sdk-alidns
